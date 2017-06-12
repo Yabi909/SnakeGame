@@ -77,7 +77,7 @@ public class Snake implements ActionListener, KeyListener, MouseListener
 		time = 0;
 		score = 0;
 		ticks = 0;
-		snakeLength = 47;
+		snakeLength = 1;
 		gameOver= false;
 		paused = false;
 		
